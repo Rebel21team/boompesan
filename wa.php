@@ -1,5 +1,10 @@
 <?php
-echo "REBEL 21 TEAM v KERTASADA CYBER CRIME\n\n";
+echo "
+ ____      _          _   ____  _
+|  _ \ ___| |__   ___| | |___ \/ |
+| |_) / _ \ '_ \ / _ \ |   __) | |
+|  _ <  __/ |_) |  __/ |  / __/| |
+|_| \_\___|_.__/ \___|_| |_____|_|\n\n";
 echo "No WA Target\nInput : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
